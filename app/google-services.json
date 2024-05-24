@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "680693093205",
+    "firebase_url": "https://e-passport-de821-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "e-passport-de821",
+    "storage_bucket": "e-passport-de821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680693093205:android:2bedcbc8a13382bf3c95dc",
+        "android_client_info": {
+          "package_name": "com.e_passport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NUbs4C4PUdQYhC3njZQ6Wqq61Udkpsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
